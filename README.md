@@ -2,7 +2,8 @@
 Manejo de funciones version2
 ## Funciones v2
 - codigo
-- ![image](https://github.com/user-attachments/assets/161d6f87-09e5-4a07-b290-615e36b117eb)
+- ![image](https://github.com/user-attachments/assets/fabf5d9e-303d-48a8-8707-c868ec253eb4)
 - resultado
-- ![image](https://github.com/user-attachments/assets/855952c8-9def-470f-b574-36c20b8f4cd9)
+- ![image](https://github.com/user-attachments/assets/a54db27a-8c4a-4661-b389-c5728ec4ae4d)
+
 
